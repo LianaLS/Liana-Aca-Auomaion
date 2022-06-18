@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa502480-0dce-436b-9dc2-dedb091babb9" name="Changes" comment="fff">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/a" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/a.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/a.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +36,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Liana\Documents\GitHub\Liana-Aca-Auomaion\Homeworks\src\main" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a" />
@@ -103,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655566589369</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fff">
+      <created>1655567014098</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655567014098</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

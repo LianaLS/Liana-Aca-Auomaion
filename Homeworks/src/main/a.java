@@ -6,6 +6,7 @@ import static java.lang.System.*;
 public class a {
     public static void main(String[] args)
     {
+        //nn
         String  a="hello";
         String b="welcggome";
         String c=a;
