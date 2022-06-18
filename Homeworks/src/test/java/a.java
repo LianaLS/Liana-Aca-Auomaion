@@ -4,7 +4,8 @@
 import static java.lang.System.*;
 
 public class a {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         String  a="hello";
         String b="welcggome";
         String c=a;
