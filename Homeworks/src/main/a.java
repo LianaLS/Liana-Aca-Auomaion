@@ -9,8 +9,8 @@ public class a {
         String  a="hello";
         String b="welcggome";
         String c=a;
-         a= b;
-         b=c;
+        a= b;
+        b=c;
         System.out.println(a);
         System.out.println(b);
         //WebDriver dr = new ChromeDriver();
